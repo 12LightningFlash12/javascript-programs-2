@@ -48,11 +48,3 @@ function tower(){
     
     turnLeft();
 }
-
-
-
-
-
-
-
-
